@@ -1,0 +1,1 @@
+# 6_axis_articulated_manipulator_with_changing_end_effector
